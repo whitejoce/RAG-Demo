@@ -45,7 +45,7 @@ class ZhipuEmbeddings(Embeddings):
         self,
         api_key: str,
         base_url: str = "https://open.bigmodel.cn/api/paas/v4",
-        model: str = "embedding-2",
+        model: str = "embedding-3",
         dimensions: int | None = None,
         timeout: float = 60.0,
         batch_size: int = 16,
