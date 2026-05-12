@@ -23,3 +23,6 @@ __pycache__/
 # Node
 node_modules/
 
+#api_key
+.env
+
