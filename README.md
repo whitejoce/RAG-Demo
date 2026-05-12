@@ -1,16 +1,16 @@
 # 企业政企知识库 MVP
 
-⚙️ code with GPT-5.5
+> ⚙️ code with GPT-5.5
 
 一个最小可跑通的 Python + LangChain + 智谱 AI 知识库原型。
 
 主要完成：
-- 新增 LangChain 知识库流水线：[src/kb/ingest.py](./src/kb/ingest.py)、[src/kb/chain.py](./src/kb/chain.py)
-- 新增智谱 Embedding + Chat 封装：[src/models/zhipu.py](./src/models/zhipu.py)
-- 新增 CLI：[src/cli.py](./src/cli.py)
-- 新增 MCP Server 和客户端演示：[src/mcp_server.py](./src/mcp_server.py)、[src/mcp_client_demo.py](./src/mcp_client_demo.py)
-- 新增样本文档目录：[data/raw](./data/raw)
-- 运行说明：[README.md](./README.md)
+- LangChain 知识库流水线：[src/kb/ingest.py](./src/kb/ingest.py)、[src/kb/chain.py](./src/kb/chain.py)
+- 智谱 Embedding + Chat 封装：[src/models/zhipu.py](./src/models/zhipu.py)
+- CLI：[src/cli.py](./src/cli.py)
+- MCP Server 和客户端演示：[src/mcp_server.py](./src/mcp_server.py)、[src/mcp_client_demo.py](./src/mcp_client_demo.py)
+- 样本文档目录：[data/raw](./data/raw)
+- 分层评测：[eval](./eval)
 
 ## 目录
 
