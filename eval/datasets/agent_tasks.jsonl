@@ -1,0 +1,6 @@
+{"id":"a1","task":"回答企业宽带开通周期","question":"企业宽带开通需要多久？","expected_tool":"ask_kb","expected_keywords":["3","工作日"]}
+{"id":"a2","task":"回答光缆套餐包含内容","question":"光缆套餐包含哪些服务？","expected_tool":"ask_kb","expected_keywords":["SLA","静态IP"]}
+{"id":"a3","task":"回答专线接入流程","question":"政企专线接入流程有哪些步骤？","expected_tool":"ask_kb","expected_keywords":["需求确认","交付验收"]}
+{"id":"a4","task":"回答专线适用场景","question":"什么场景适合专线产品？","expected_tool":"ask_kb","expected_keywords":["视频会议","核心系统"]}
+{"id":"a5","task":"回答固定公网IP","question":"是否支持固定公网IP？","expected_tool":"ask_kb","expected_keywords":["固定公网IP","远程办公"]}
+

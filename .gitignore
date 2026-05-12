@@ -9,10 +9,16 @@ Desktop.ini
 # Logs
 *.log
 
+# Runtime data
+data/index/
+eval/results/
+.env
+
 # Python
 __pycache__/
 *.pyc
 .venv/
+.pytest_cache/
 
 # Node
 node_modules/
