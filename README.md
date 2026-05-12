@@ -1,6 +1,6 @@
 # 企业政企知识库 MVP
 
-> code with GPT-5.5
+⚙️ code with GPT-5.5
 
 一个最小可跑通的 Python + LangChain + 智谱 AI 知识库原型。
 
