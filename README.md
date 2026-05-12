@@ -3,19 +3,19 @@
 一个最小可跑通的 Python + LangChain + 智谱 AI 知识库原型。
 
 主要完成：
-- 新增 LangChain 知识库流水线：[src/kb/ingest.py](D:/Code/test_codex/src/kb/ingest.py)、[src/kb/chain.py](D:/Code/test_codex/src/kb/chain.py)
-- 新增智谱 Embedding + Chat 封装：[src/models/zhipu.py](D:/Code/test_codex/src/models/zhipu.py)
-- 新增 CLI：[src/cli.py](D:/Code/test_codex/src/cli.py)
-- 新增 MCP Server 和客户端演示：[src/mcp_server.py](D:/Code/test_codex/src/mcp_server.py)、[src/mcp_client_demo.py](D:/Code/test_codex/src/mcp_client_demo.py)
-- 新增样本文档目录：[data/raw](D:/Code/test_codex/data/raw)
-- 更新运行说明：[README.md](D:/Code/test_codex/README.md)
-
+- 新增 LangChain 知识库流水线：[src/kb/ingest.py](./src/kb/ingest.py)、[src/kb/chain.py](./src/kb/chain.py)
+- 新增智谱 Embedding + Chat 封装：[src/models/zhipu.py](./src/models/zhipu.py)
+- 新增 CLI：[src/cli.py](./src/cli.py)
+- 新增 MCP Server 和客户端演示：[src/mcp_server.py](./src/mcp_server.py)、[src/mcp_client_demo.py](./src/mcp_client_demo.py)
+- 新增样本文档目录：[data/raw](./data/raw)
+- 运行说明：[README.md](./README.md)
 
 ## 目录
 
 - `data/raw/` 原始样本文档
 - `data/index/` 本地 FAISS 索引
 - `src/` 核心代码
+- `eval/` 一套可直接扩展的小型评测模板
 
 ## 安装
 
