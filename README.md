@@ -29,7 +29,7 @@ pip install -r requirements.txt
 set ZHIPU_API_KEY=你的key
 set ZHIPU_BASE_URL=https://open.bigmodel.cn/api/paas/v4
 set ZHIPU_CHAT_MODEL=glm-4-flash
-set ZHIPU_EMBED_MODEL=embedding-2
+set ZHIPU_EMBED_MODEL=embedding-3
 ```
 
 ## 使用
